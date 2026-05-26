@@ -4,7 +4,7 @@ Take a look at the image in this folder 'final.jpg'
 Let's see if we can make this with HTML
 
 You will need lots of tags to do this including
-<h1>
+<h1> <h1>
 <h2>
 <em>
 <a>
