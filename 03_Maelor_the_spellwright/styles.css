@@ -11,14 +11,16 @@ h1 {
 }
 
 .profile-card {
-  border: 2px solid #78350F;
-  background-color: #FDE68A;
+  border: 2px solid #12ff22;
+  background-color: #f6c673;
   padding: 16px;
   margin: 20px auto;
   max-width: 500px;
-  border-radius: 8px;
+  border-radius: 15px;
   text-align: center;
+  filter: drop-shadow(12px 15px 5px #9b9999);
 }
+
 
 .profile-img {
   max-width: 100%;

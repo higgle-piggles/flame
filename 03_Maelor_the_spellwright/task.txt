@@ -2,14 +2,18 @@
 
 PREDICT:
 What will the page look like? Where will it appear?
+Some of the page is yellow because 
 
 RUN:
 Check that the image shows up and fits inside the card.
 
 INVESTIGATE:
 - What does max-width do?
+It makes the image of the man larger than the yellow box 
 - What’s the difference between margin and padding?
+The padding moves the list while the margin moves the profile card further away from the top of the website
 - What are the . and # doing?
+The hashtag gives the font a certain colour and the dot makes the image go random places and different sizes
 
 MODIFY:
 - Round the image corners more
