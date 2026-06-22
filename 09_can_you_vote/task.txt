@@ -12,7 +12,9 @@ Some are broken logic. Some are things JavaScript doesn’t even allow.
 Before you even run it:  
 - What stands out as broken?  
 - What do you think will happen when you try it?
+Something will go wrong
 - What do you think *should* happen?
+It should check the age of the user and tell if they are old to join the pattison party
 
 🟢 RUN  
 Try entering an age and clicking the button.
