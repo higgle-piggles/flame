@@ -16,15 +16,17 @@ function matchRole() {
     }
 
     if (selectedIssues.length == 0) {
-      message = "Please select at least one issue you care about.";
+      message = "Please select your desired element";
     } else if (position == "progressive" && selectedIssues.includes("environment")) {
-      message = "🌱 You’d be perfect for the Outreach Team.";
+      message = "You can scrape hot coals to keep the fire of the pit of humidity alive";
     } else if (position == "moderate" && selectedIssues.includes("economy")) {
-      message = "📊 You’d make a great Policy Analyst."
+      message = "You can be enroled in the stoning program where you stone other constestants who didn't make the cut"
     } else if (position == "traditional" || selectedIssues.includes("education")) {
-      message = "🎖️ You’d bring valuable perspective to Strategy.";
+      message = "You can wash the floors!";
+    } else if (position == "housing" || selectedIssues.includes("enviroment")) {
+      message ="You can be part of the wizadary team where you explore how king patti is so amazing";
     } else {
-      message = "🤝 You’d be a great all-round supporter!";
+      message = "🤝 You are not worthy you shall be expiremented by the knowing wizard";
     }
   }
 

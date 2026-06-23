@@ -7,6 +7,7 @@ This task uses two input types you haven't worked with yet:
 🟡 PREDICT  
 What will happen if you pick Progressive and tick Environment?  
 What if you tick everything?
+It will say something very nice
 
 🟢 RUN  
 Try different combinations and see which role the system suggests.
